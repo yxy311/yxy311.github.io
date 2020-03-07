@@ -1,34 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yxy311.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-03T05:56:19.300Z</updated>
+    <title>311</title>
+    <updated>2020-03-07T01:02:30.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yxy311.github.io"/>
     <link rel="self" href="https://yxy311.github.io/atom.xml"/>
-    <subtitle>yxy311的个人网站</subtitle>
+    <subtitle>生日快乐</subtitle>
     <logo>https://yxy311.github.io/images/avatar.png</logo>
     <icon>https://yxy311.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 311</rights>
     <entry>
-        <title type="html"><![CDATA[截图宝：抖音点赞.微信投票.微信阅读 赚钱]]></title>
-        <id>https://yxy311.github.io/post/jie-tu-bao-dou-yin-dian-zan-wei-xin-tou-piao-wei-xin-yue-du-zhuan-qian/</id>
-        <link href="https://yxy311.github.io/post/jie-tu-bao-dou-yin-dian-zan-wei-xin-tou-piao-wei-xin-yue-du-zhuan-qian/">
+        <title type="html"><![CDATA[生日快乐]]></title>
+        <id>https://yxy311.github.io/post/sheng-ri-kuai-le/</id>
+        <link href="https://yxy311.github.io/post/sheng-ri-kuai-le/">
         </link>
-        <updated>2020-03-03T05:18:45.000Z</updated>
-        <content type="html"><![CDATA[<pre><code>     今天记录一下最近新出的赚钱app![](https://yxy311.github.io/post-images/1583213138941.jpg)
-     截图宝 是一款抖音点赞 微信投票 阅读赚钱的APP。提现无手续费，审核很快，只要按照要求完成任务就能获得相应的积分积分变换为钱，一万积分为1元，不要担心玩几分钟就能到一万积分，新人首次登陆完成任务获得积分可以提现1元，提完1元后，之后提现最低5元起提现到支付宝或微信。![](https://yxy311.github.io/post-images/1583213563617.jpg)
-     快来扫码下载吧 ![](https://yxy311.github.io/post-images/1583213638280.jpg)
-                                                                                         2020.3.3 星期二</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://yxy311.github.io/post/hello-gridea/</id>
-        <link href="https://yxy311.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yxy311.github.io/post-images/1582604997951.jpg" alt="" loading="lazy"></figure>
+        <updated>2020-03-07T01:01:23.000Z</updated>
+        <content type="html"><![CDATA[<p>生日快乐<br>
+<img src="https://yxy311.github.io/post-images/1583542895894.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
