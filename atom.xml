@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yxy311.github.io</id>
     <title>311</title>
-    <updated>2020-03-07T01:02:30.350Z</updated>
+    <updated>2020-04-18T00:25:00.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yxy311.github.io"/>
     <link rel="self" href="https://yxy311.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://yxy311.github.io/images/avatar.png</logo>
     <icon>https://yxy311.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 311</rights>
+    <entry>
+        <title type="html"><![CDATA[然然子你能看到吗？]]></title>
+        <id>https://yxy311.github.io/post/ran-ran-zi-ni-neng-kan-dao-ma/</id>
+        <link href="https://yxy311.github.io/post/ran-ran-zi-ni-neng-kan-dao-ma/">
+        </link>
+        <updated>2020-04-18T00:13:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>我好像要过上正常的生活了，我好像变了很多。人都需要成长，成长的道路很坎坷。<br>
+也不知道你是高二还是高三，希望你有个美好的高中生活，<br>
+等我可以不用烦恼的时候，想要再见你一面。在那之前你一定要过的很好。<br>
+我现在也很好的呀。<br>
+好像只有你这么一个朋友了，会珍惜你的。<br>
+你是一个很好的人，再也遇不到像你这样的人了。<br>
+给你推荐一首歌曲吧</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我好像要过上正常的生活了，我好像变了很多。人都需要成长，成长的道路很坎坷。<br>
+也不知道你是高二还是高三，希望你有个美好的高中生活，<br>
+等我可以不用烦恼的时候，想要再见你一面。在那之前你一定要过的很好。<br>
+我现在也很好的呀。<br>
+好像只有你这么一个朋友了，会珍惜你的。<br>
+你是一个很好的人，再也遇不到像你这样的人了。<br>
+给你推荐一首歌曲吧</p>
+<!-- more -->
+<p><img src="https://yxy311.github.io/post-images/1587169372176.png" alt="" loading="lazy"><br>
+就是 seventeen 的fallin flower 网易云可听</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生日快乐]]></title>
         <id>https://yxy311.github.io/post/sheng-ri-kuai-le/</id>
