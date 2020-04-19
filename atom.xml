@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yxy311.github.io</id>
     <title>311</title>
-    <updated>2020-04-18T07:42:05.221Z</updated>
+    <updated>2020-04-19T01:28:36.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yxy311.github.io"/>
     <link rel="self" href="https://yxy311.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://yxy311.github.io/images/avatar.png</logo>
     <icon>https://yxy311.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 311</rights>
+    <entry>
+        <title type="html"><![CDATA[开心]]></title>
+        <id>https://yxy311.github.io/post/kai-xin/</id>
+        <link href="https://yxy311.github.io/post/kai-xin/">
+        </link>
+        <updated>2020-04-19T01:22:31.000Z</updated>
+        <content type="html"><![CDATA[<p>很开心能够得到回复，我昨天晚上烦恼了一晚上，我以为自己自作多情。没想到不是，所以很开心。<br>
+好好学习吧 每个人都要好好的</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无论看到还是没看到]]></title>
         <id>https://yxy311.github.io/post/ran-ran-zi-ni-neng-kan-dao-ma/</id>
